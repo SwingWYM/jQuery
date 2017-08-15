@@ -1,4 +1,4 @@
-#wmBanner{position: relative;width: 500px;height: 338px}
+#wmBanner{position: relative;width: 500px;height: 338px;margin: auto;}
 #wmBanner .img{width: 500px;height: 338px;position: absolute;top: 0;left: 0}
 /*#wmBanner a{width: 500px;height: 338px;cursor:default;}*/
 #list{list-style: none;position: absolute;bottom: 20px;padding: 0;margin: 0;left: 200px;}
